@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @muddlefoot
+- 👀 I’m interested in automation through python, AWS/GCP, and Operating Systems
+- 🌱 I’m currently learning python and GCP
+- 💞️ I’m looking to collaborate on a workspace launcher for Windows and Linux
+- 📫 How to reach me @muddlefoot on T
